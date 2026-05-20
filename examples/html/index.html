@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PixInLink — HTML Example</title>
+    <style>
+        body { font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+        img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,.1); }
+        code { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; font-size: 90%; }
+        pre { background: #1e1e1e; color: #d4d4d4; padding: 1rem; border-radius: 8px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>PixInLink — Plain HTML Example</h1>
+    <p>No JavaScript, no frameworks. Just <code>&lt;img src&gt;</code>.</p>
+
+    <h2>1. Basic usage</h2>
+    <pre><code>&lt;img src="https://pixinlink.ru/api/v1/800x400/hello+world+from+pixinlink"
+     alt="AI generated image" /&gt;</code></pre>
+    <img src="https://pixinlink.ru/api/v1/800x400/hello+world+from+pixinlink"
+         alt="AI generated image" style="max-width:400px" />
+
+    <h2>2. With colors and style</h2>
+    <pre><code>&lt;img src="https://pixinlink.ru/api/v1/1200x630/f093fb/ffffff?prompt=modern+office+workspace&amp;style=illustration"
+     alt="Modern office" /&gt;</code></pre>
+    <img src="https://pixinlink.ru/api/v1/1200x630/f093fb/ffffff?prompt=modern+office+workspace&style=illustration"
+         alt="Modern office" />
+
+    <h2>3. Open Graph image for blog</h2>
+    <pre><code>&lt;meta property="og:image"
+      content="https://pixinlink.ru/api/v1/1200x630/ffffff/333333?prompt=AI+image+generation+blog+post&amp;style=illustration&amp;format=webp" /&gt;</code></pre>
+
+    <p style="margin-top:2rem;color:#666">
+        <a href="https://pixinlink.ru">pixinlink.ru</a> —
+        <a href="https://github.com/PixInLink/PixInLink">GitHub</a>
+    </p>
+</body>
+</html>

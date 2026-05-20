@@ -1,0 +1,229 @@
+# Copyright (C) 2026 PixInLink
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: PixInLink — AI Image Generator 1.2.0\n"
+"Report-Msgid-Bugs-To: https://pixinlink.ru/support\n"
+"POT-Creation-Date: 2026-05-18 14:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: PixInLink <info@pixinlink.ru>\n"
+"Language-Team: PixInLink <info@pixinlink.ru>\n"
+"X-Generator: PixInLink Plugin\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: pixinlink.php
+msgid "PixInLink — AI Image Generator"
+msgstr ""
+
+#: includes/class-api.php
+msgid "API key not configured."
+msgstr ""
+
+#: includes/class-api.php
+msgid "Prompt is required."
+msgstr ""
+
+#: includes/class-api.php
+msgid "Empty image URL in response."
+msgstr ""
+
+#: includes/class-api.php
+msgid "Failed to download image."
+msgstr ""
+
+#: includes/class-api.php
+#, php-format
+msgid "API error: HTTP %d"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Realistic"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Illustration"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Anime"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Oil Painting"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Watercolor"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Pixel Art"
+msgstr ""
+
+#: includes/class-api.php
+msgid "3D Render"
+msgstr ""
+
+#: includes/class-api.php
+msgid "Line Art"
+msgstr ""
+
+#: includes/class-api.php
+msgid "WebP"
+msgstr ""
+
+#: includes/class-api.php
+msgid "AVIF"
+msgstr ""
+
+#: includes/class-api.php
+msgid "PNG"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "PixInLink Settings"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "PixInLink"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Testing..."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Connection successful!"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Request failed."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Test Connection"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Permission denied."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "API key is empty."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Invalid API key or API unreachable."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "API Key"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Your PixInLink API key. Get it at"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Default Width"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Default Height"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Default Style"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Default Format"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Auto-Insert"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Auto-generate featured images for posts without one"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "When enabled, posts saved without a featured image will automatically receive a generated image based on the post title."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Cache Duration"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "days"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Generated images older than this will be eligible for cleanup."
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Shortcode Usage"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Description"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Generate and insert an image"
+msgstr ""
+
+#: includes/class-settings.php
+msgid "Output just the image URL"
+msgstr ""
+
+#: includes/class-block.php
+msgid "AI generated image"
+msgstr ""
+
+#: includes/class-block.php
+msgid "Generate Image"
+msgstr ""
+
+#: includes/class-block.php
+msgid "Image generated successfully."
+msgstr ""
+
+#: includes/class-woocommerce.php
+msgid "PixInLink — Generate Image"
+msgstr ""
+
+#: includes/class-woocommerce.php
+msgid "Override product image"
+msgstr ""
+
+#: includes/class-woocommerce.php
+msgid "Style:"
+msgstr ""
+
+#: includes/class-woocommerce.php
+msgid "Format:"
+msgstr ""
+
+#: includes/class-woocommerce.php
+#, php-format
+msgid "Generated image ID: %d"
+msgstr ""
+
+#: includes/class-woocommerce.php
+msgid "Invalid product ID."
+msgstr ""
+
+#: includes/class-woocommerce.php
+msgid "Product not found."
+msgstr ""

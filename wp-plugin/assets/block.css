@@ -1,0 +1,36 @@
+.wp-block-pixinlink-image {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+.wp-block-pixinlink-image.pixinlink-placeholder {
+	box-sizing: border-box;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	padding: 20px;
+}
+
+.editor-styles-wrapper .wp-block-pixinlink-image {
+	margin: 0 auto;
+}
+
+.block-editor-block-list__block .wp-block-pixinlink-image.pixinlink-placeholder {
+	border-radius: 4px;
+}
+
+.pixinlink-wc-meta .spinner {
+	float: none;
+	margin-top: 4px;
+}
+
+.pixinlink-wc-meta select {
+	margin-bottom: 8px;
+}
+
+#pixinlink-wc-result img {
+	margin-top: 8px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
